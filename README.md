@@ -37,7 +37,7 @@ The model is evaluated using:
 
 ## How to Run
 1. Download or clone this repository.
-2. Open `CodeAlpha_Iris_Flower_Classification.ipynb` in Google Colab.
+2. Open `CodeAlpha_Iris_Flower_Classification.ipynb` in Google Colab or Jupyter Notebook
 3. Upload `Iris.csv` when prompted.
 4. Run the notebook cells in order.
 
