@@ -45,4 +45,4 @@ The model is evaluated using:
 To understand basic machine learning classification, model training, prediction, and performance evaluation.
 
 
-Watch the Project Video Walkthrough on Loom: [https://www.loom.com/share/763efd9931c44e7495d5e7a95c5faf0b}
+Watch the Project Video Walkthrough on Loom: [https://www.loom.com/share/763efd9931c44e7495d5e7a95c5faf0b]
